@@ -6,7 +6,7 @@ Since the Distributed Acoustic Sensing (DAS) data I used is not open-access, thi
 
 ## License
 
-This project is licensed under the GNU Lesser General Public License version 3 (LGPLv3). See the [LICENSE](LICENSE) file for details.
+This project is licensed under X11 license. See the [LICENSE](LICENSE) file for details.
 
 ## Reproducing part of the results
 
